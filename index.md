@@ -1,14 +1,4 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-
-
-
+PROJECTS: 
 
 # Exploratory Data Analysis (EDA) of Titanic Dataset:
 
