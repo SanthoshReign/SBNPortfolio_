@@ -1,6 +1,6 @@
-PROJECTS: 
+# PROJECTS: 
 
-# Exploratory Data Analysis (EDA) of Titanic Dataset:
+## Exploratory Data Analysis (EDA) of Titanic Dataset:
 
 ### Objective: 
   Performed an in-depth EDA on the Titanic dataset to understand passenger demographics, survival rates, and factors influencing survival.
@@ -10,7 +10,7 @@ PROJECTS:
   1. Survival Analysis: Analyzed survival rates by gender, age, and class. Found that women and children had higher survival rates, and first-class passengers had a better chance of survival.
   2. Visualization: Created a series of visualizations, including histograms, bar plots, and heatmaps, to illustrate the relationships between various features and survival outcomes.
 
-# RSVP Movies Dataset using SQL:
+## RSVP Movies Dataset using SQL:
 
 ### Objective: 
   Performed data analysis on IMDB movie dataset and found key insights into movie performance, genre popularity, and production house success.
@@ -21,7 +21,7 @@ PROJECTS:
   2. Multilingual movies often receive higher votes and ratings. This shows the importance of catering to diverse audiences.
 
 
-# Machine Learning Lead Scoring Project: 
+## Machine Learning Lead Scoring Project: 
 ### Objective:
   An education company named X Education sells online courses to industry professionals. The typical lead conversion rate at X education is around 30%. The company thinks that the conversion rate is very low and wants to improve it. To do so, the company wishes to identify the most potential leads called ‘Hot lead’. To identify these hot leads, we need to build a model to find features contributing more on the lead conversion rate. Here, we need to find whether the lead will take the course or not. Therefore, the machine learning algorithm we have to use is logistic regression because it follows classification technique. We’re using a lead conversion past dataset consists of 9240 data points. The target variable used for building the model is ‘Converted’.
   
